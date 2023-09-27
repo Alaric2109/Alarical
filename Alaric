@@ -1,0 +1,15 @@
+<html>
+<title>
+HELLO WORLD
+</title>
+<br>
+<body>
+<h1>
+REGISTRATION FORM<br>
+command:-</h1><BR>
+<form><input type="radio" name="command" value="ok sir">ok sir<br>
+<input type="radio" name="command" value="yes sir">yes sir<br>
+</form>
+<img  src="C:\Users\user\Documents">
+</body>
+</html>
